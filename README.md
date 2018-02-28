@@ -2,13 +2,13 @@
 
 Just an example of what your first repository should look like!
 
-####Some extra tips
+#### Some extra tips
 
 If you want to learn how to write nice looking README's then you should look in **Markdown** language which you can read more about [here](https://guides.github.com/features/mastering-markdown/).
 
 It's a really helpful and easy way to make pleasant looking README's. 
 
-####What are README's actually good for?
+#### What are README's actually good for?
 
 They are usually the first thing a visitor to your repository sees and they can explain:
 
