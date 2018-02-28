@@ -1,0 +1,16 @@
+#container{
+	width: 70%;
+	margin: 0 auto;
+	padding: 1.5%;
+	background: indianred;
+}
+
+
+#highlight{
+    color="red"
+}
+
+section{
+	padding: 1.5%;
+	background: darkkhaki;
+}
